@@ -1,0 +1,28 @@
+.books {
+  border: 0 10px lightsalmon;
+  background-color: orange;
+  margin-top: 50px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.books h2 {
+  text-align: center;
+  color: blueviolet;
+}
+.books img {
+  text-align: left;
+}
+.books p {
+  text-align: center;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.cont img {
+  height: auto;
+  width: 300px;
+  margin: 2rem auto;
+}

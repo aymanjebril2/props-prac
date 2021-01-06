@@ -1,0 +1,21 @@
+header {
+  background-color: orange;
+  padding: 20px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  color: darkorchid;
+  display: flex;
+  justify-content: center;
+}
+ul {
+  display: flex;
+}
+li {
+  margin: 0 3em;
+  list-style: none;
+  color: darkorchid;
+}
